@@ -6,8 +6,9 @@
         "date": "2025-11-26",
         "title": "What the Cloudflare outage taught me about real reliability",
         "tags": ["Cloud", "Reliability", "Systems Design"],
-        "summary": "Reading about the Cloudflare outage made me realise that reliability isn’t about systems working only when conditions are perfect, but about staying usable when parts fail. It highlighted how microservices, redundancy, isolation, and proper failover prevent edge cases from bringing everything down, and how good engineering is as much about clear structure, naming, and readability as it is about code that runs."
+        "summary": "Reading about the Cloudflare outage made me realise that reliability isn’t about systems working only when conditions are perfect, but about staying usable when parts fail. It highlighted how microservices, redundancy, isolation, and proper failover prevent edge cases from bringing everything down, and how good engineering is about systems and teams survive through good design, clarity, and resilience, not shortcuts."
       }
     ]
   }
+
 
